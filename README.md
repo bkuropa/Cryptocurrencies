@@ -15,7 +15,7 @@ The explained variance ratio of the components implies that 7% of the data is he
 In order to best optimized the k-means clustering technique, the following elbow curve is utilized to determine the best number of groups to divide into.  In this case the elbow is determined to be at point 3.
 ![bokeh_plot](https://user-images.githubusercontent.com/19878877/166002798-77c8ae96-6e9e-4359-9abc-01a26e7d1f65.png)
 
-The different cryptocurrency styles can be observed in a number of ways.  Shown below are a 3D analysis and a dot plot.
+The different cryptocurrency styles can be observed in a number of ways.  Shown below are a 3D analysis and a dot plot.  One can notice the incredible difference between Bitcoin (Group 1) and all of the other currencies.  Due to its value and popularity, it appers as an intense outlier.
 ![3D_1](https://user-images.githubusercontent.com/19878877/166002835-2c8628d1-ef46-441d-bb9e-f0625b1d3e58.png)
 ![3D_2](https://user-images.githubusercontent.com/19878877/166002860-1b93388c-f56b-42a1-acc4-730e84525821.png)
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/19878877/166002894-d7f8a47f-8bca-4f11-b0fd-11800665103d.png)
