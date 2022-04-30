@@ -10,7 +10,7 @@ The current data under analysis is depicted in the table below before any proces
 
 Upon processing, 533 different cryptocurrencies are usable and 3 principal components are derrived for the initial analysis.
 ![PCA1](https://user-images.githubusercontent.com/19878877/166002590-baf52737-5a30-4b22-83bb-91b3832cb6ca.png)
-The explained variance ratio of the components implies that 7% of the data is held in 3 PCAs but this may be due to the large number of extra columns holding 0s and 1s in addition to the major 2 financial columns.
+The explained variance ratio of the components implies that 7% of the data is held in 3 PCAs but this may be due to the large number of extra columns (~90) holding 0s and 1s in addition to the major 2 financial columns.
 
 In order to best optimized the k-means clustering technique, the following elbow curve is utilized to determine the best number of groups to divide into.  In this case the elbow is determined to be at point 3.
 ![bokeh_plot](https://user-images.githubusercontent.com/19878877/166002798-77c8ae96-6e9e-4359-9abc-01a26e7d1f65.png)
